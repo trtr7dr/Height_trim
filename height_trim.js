@@ -4,7 +4,7 @@ document.addEventListener("DOMContentLoaded", function () {
      * Создание экземпляра Height_trim.
      *
      * @constructor
-     * @param {string} class_name - id картинки.
+     * @param {string} class_name - класс элементов.
      */
 
     function Height_trim(class_name) { //version 0.9
